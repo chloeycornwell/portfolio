@@ -29,7 +29,12 @@ h2 {
     color: #cc0066;    
 }
 
-/* navigation links */
+/* nav link */
 nav li a {
     color: #ffffff;
+}
+
+/* nav background */
+nav > ul {
+    background-color: #ff99cc;  
 }
