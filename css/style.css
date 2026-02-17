@@ -1,5 +1,5 @@
 html {
-    background-color: #ffe6f2;
+    background-color: #ffe6ff;
 }
 
 body {
@@ -37,4 +37,9 @@ nav li a {
 /* nav background */
 nav > ul {
     background-color: #ff99cc;  
+}
+
+/* nav item */
+ul > li {
+    font-size: 1rem; 
 }
