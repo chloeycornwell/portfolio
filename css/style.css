@@ -17,6 +17,12 @@ main{
     background-color: white;
 }
 
+section {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    border: 1px solid #cc0066;
+}
+
 header {
     background-color: #ff66b2; 
     color: #ffffff;  
