@@ -23,6 +23,14 @@ section {
     border: 1px solid #cc0066;
 }
 
+/* box sizing */
+p {
+    margin: 1em;
+    padding: 20px;
+    border: 5px solid #4a004a;
+    width: 100%;
+}
+
 header {
     background-color: #ff66b2; 
     color: #ffffff;  
