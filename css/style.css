@@ -25,6 +25,10 @@ section {
     border: 1px solid #cc0066;
 }
 
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 /* box sizing */
 p {
     margin: 1em;
