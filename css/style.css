@@ -58,7 +58,8 @@ h1 {
 
 h2 {
     font-size: 1.5rem; 
-    color: #cc0066;    
+    color: #cc0066;
+    font-weight: bold;    
 }
 
 /* nav link */
