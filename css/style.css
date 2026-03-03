@@ -36,6 +36,7 @@ p {
     border: 5px solid #4a004a;
     width: 100%;
     box-sizing: border-box; 
+    text-align: left;
 }
 
 header {
