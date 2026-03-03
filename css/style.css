@@ -51,6 +51,8 @@ footer {
 h1 {
     font-size: 2rem;   
     color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
 }
 
 
