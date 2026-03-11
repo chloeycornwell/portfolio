@@ -91,6 +91,15 @@ dd {
     font-style: italic;
 }
 
+ol {
+    padding-left: 2rem;
+}
+
+ol li {
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
 /* nav link */
 nav li a {
     color: #ffffff;
