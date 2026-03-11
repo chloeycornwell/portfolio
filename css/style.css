@@ -85,6 +85,12 @@ dt {
     margin-top: 1rem;
 }
 
+dd {
+    margin-bottom: 1rem;
+    margin-left: 1.5rem;
+    font-style: italic;
+}
+
 /* nav link */
 nav li a {
     color: #ffffff;
