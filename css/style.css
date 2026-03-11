@@ -55,7 +55,7 @@ header {
 }
 
 footer {
-    background-color: #ff66b2;
+    background-color: #77063f;
     color: #ffffff;
     padding: 1rem;
     text-align: center;
@@ -108,7 +108,7 @@ blockquote {
 }
 
 blockquote p {
-    border: none; /* Removes the heavy purple border for quotes */
+    border: none; 
     padding: 10px;
 }
 
