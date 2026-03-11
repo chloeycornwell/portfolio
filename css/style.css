@@ -23,7 +23,7 @@ main{
     width: 80%;
     margin: 2rem auto; 
     padding: 2rem;
-    border: 2px solid #77063f;
+    border: 2px solid #911452;
     background-color: white;
 }
 
@@ -41,7 +41,7 @@ h1, h2, h3 {
 p {
     margin: 1em;
     padding: 20px;
-    border: 5px solid #4a004a;
+    border: 5px solid #861686;
     width: auto;
     box-sizing: border-box; 
     text-align: left;
@@ -102,7 +102,7 @@ ol li {
 
 blockquote {
     background-color: #fff0f5;
-    border-left: 10px solid #ff66b2;
+    border-left: 10px solid #77063f;
     margin: 1.5rem;
     padding: 0.5rem;
 }
@@ -120,7 +120,7 @@ nav li a {
 
 /* nav background */
 nav > ul {
-    background-color: #ff99cc;  
+    background-color: #77063f;  
 }
 
 /* nav item */
