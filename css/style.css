@@ -146,3 +146,7 @@ code, pre {
     max-width: 1200px;
     margin: 0 auto;
 }
+
+nav {
+    flex: 1 1 200px;
+}
