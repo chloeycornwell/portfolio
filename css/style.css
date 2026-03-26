@@ -150,3 +150,9 @@ code, pre {
 nav {
     flex: 1 1 200px;
 }
+
+main {
+    flex: 3 1 500px;
+    width: auto;
+    margin: 1rem;
+}
