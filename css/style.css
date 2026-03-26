@@ -131,3 +131,18 @@ ul > li {
 code, pre {
     font-family: "Courier New", Courier, monospace;
 }
+
+/* Only adding the layout logic */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.content-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
