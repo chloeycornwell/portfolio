@@ -11,4 +11,9 @@
     "status": "Looking for internship opportunities",
     "github_url": "https://github.com/chloeycornwell"
   },
+  "navigation_menu": [
+    "Home",
+    "About",
+    "Projects"
+  ],
 }
