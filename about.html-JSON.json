@@ -21,5 +21,14 @@
       "heading": "Welcome To My Portfolio",
       "summary": "Practice writing semantic HTML and showcasing academic interests."
     },
+    {
+      "heading": "My Background",
+      "education": "Associate of Science and Associate of Arts degrees",
+      "interests": [
+        "Web development",
+        "Web design",
+        "Human-tech interaction"
+      ]
+    },
 ]
 }
