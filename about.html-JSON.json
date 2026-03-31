@@ -16,4 +16,10 @@
     "About",
     "Projects"
   ],
+  "content_sections": [
+    {
+      "heading": "Welcome To My Portfolio",
+      "summary": "Practice writing semantic HTML and showcasing academic interests."
+    },
+]
 }
