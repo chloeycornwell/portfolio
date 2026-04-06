@@ -20,5 +20,10 @@
         "credentialCategory": "degree",
         "name": "Associate of Arts"
       }
+    ],
+    "knowsAbout": [
+      "Web development",
+      "Web design",
+      "Human-tech interaction"
     ]
   }
