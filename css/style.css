@@ -106,20 +106,23 @@ blockquote p {
     margin: 0;
 }
 
-/* nav link */
 nav li a:hover {
-    color: #ffffff;
-    text-decoration: underline;
+    color: #ffe6ff;
+    text-decoration: none;
 }
 
-/* nav background */
+nav li a {
+    color: #ffffff;
+}
+
 nav > ul {
     background-color: #77063f;  
-}
-
-/* nav item */
-ul > li {
-    font-size: 1rem; 
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 1rem;
+    margin: 0;
 }
 
 code, pre {
