@@ -147,6 +147,8 @@ nav {
 
 main {
     flex: 3 1 500px;
-    width: auto;
     margin: 1rem;
+    padding: 2rem;
+    border: 2px solid #911452
+    background-color: white;
 }
