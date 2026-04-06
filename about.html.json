@@ -35,4 +35,10 @@
       "@type": "Person",
       "name": "Eleanor Roosevelt"
     }
+  },
+  "copyrightYear": "2026",
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Chloe Cornwell"
   }
+}
