@@ -47,16 +47,9 @@ p {
     text-align: left;
 }
 
-header {
+header, footer {
     background-color: #77063f; 
     color: #ffffff;  
-    padding: 1rem;
-    text-align: center;
-}
-
-footer {
-    background-color: #77063f;
-    color: #ffffff;
     padding: 1rem;
     text-align: center;
 }
