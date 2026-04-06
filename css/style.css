@@ -107,7 +107,7 @@ blockquote p {
 }
 
 /* nav link */
-nav li a {
+nav li a:hover {
     color: #ffffff;
     text-decoration: underline;
 }
