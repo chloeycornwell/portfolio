@@ -110,6 +110,7 @@ blockquote {
 blockquote p {
     border: none; 
     padding: 10px;
+    margin: 0;
 }
 
 /* nav link */
