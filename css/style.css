@@ -72,26 +72,6 @@ h3 {
     font-weight: bold;
 }
 
-dt {
-    font-weight: bold;
-    color: #cc0066;
-    margin-top: 1rem;
-}
-
-dd {
-    margin-bottom: 1rem;
-    margin-left: 1.5rem;
-    font-style: italic;
-}
-
-ol {
-    padding-left: 2rem;
-}
-
-ol li {
-    margin-bottom: 0.5rem;
-    font-weight: bold;
-}
 
 blockquote {
     background-color: #fff0f5;
