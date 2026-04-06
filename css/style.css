@@ -125,10 +125,6 @@ nav > ul {
     margin: 0;
 }
 
-code, pre {
-    font-family: "Courier New", Courier, monospace;
-}
-
 .content-wrapper {
     display: flex;
     flex-wrap: wrap;
