@@ -9,4 +9,16 @@
     "jobTitle": "ICT Student",
     "url": "https://github.com/chloeycornwell",
     "description" "Student looking for internship opportunities with interests in human-tech interaction.",
+    "hasCredential": [
+      {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "degree",
+        "name": "Associate of Science"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "degree",
+        "name": "Associate of Arts"
+      }
+    ]
   }
