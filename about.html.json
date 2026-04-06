@@ -26,4 +26,13 @@
       "Web design",
       "Human-tech interaction"
     ]
+  },
+  "abstract": "Practice writing semantic HTML and showcasing academic interests.",
+  "citation": {
+    "@type": "Quotation",
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "creator": {
+      "@type": "Person",
+      "name": "Eleanor Roosevelt"
+    }
   }
