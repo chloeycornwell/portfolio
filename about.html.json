@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "AboutPage",
   "name": "About | Chloe Cornwell",
-  "description": "Portfolio of Chloe Cornwell, an ICT student specializing in web development and design."
+  "description": "Portfolio of Chloe Cornwell, an ICT student specializing in web development and design.",
   "mainEntity": {
     "@type": "Person",
     "name":"Chloe Cornwell",
