@@ -35,5 +35,12 @@
       "description": "Projects demonstrating progressive skill development through ICT coursework."
     }
   ],
+  "abstract": "This page serves as a placeholder for projects as I complete new web development exercises.",
+  "copyrightYear": "2026",
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "Chloe Cornwell"
+  }
+}
     
       
