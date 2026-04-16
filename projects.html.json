@@ -15,3 +15,19 @@
       "Responsive Web Design"
     ]
   },
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "name": "HTML Structure and Semantic Markup Exercises",
+      "creativeWorkStatus": "Completed",
+      "description": "Exercises focused on building solid foundations in semantic HTML."
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Small Website Layouts",
+      "creativeWorkStatus": "Planned",
+      "description": "Layouts focusing on accessibility and usability best practices."
+    },
+    {
+    
+      
