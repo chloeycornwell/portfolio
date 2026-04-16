@@ -3,4 +3,15 @@
   "@type": "CollectionPage",
   "name": "Projects | Chloe Cornwell",
   "description": "A collection of web development and research projects by Chloe Cornwell.",
-}
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Chloe Cornwell",
+    "jobTitle": "ICT Student",
+    "description": "Web development student at the University of Kentucky.",
+    "knowsAbout": [
+      "PHP",
+      "MySQL",
+      "Generative AI",
+      "Responsive Web Design"
+    ]
+  },
