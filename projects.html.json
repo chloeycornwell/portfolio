@@ -2,12 +2,13 @@
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "name": "Projects | Chloe Cornwell",
-  "description": "A collection of web development and research projects by Chloe Cornwell.",
+  "description": "Portfolio of Chloe Cornwell, an ICT student specializing in web development and design.",
   "mainEntity": {
     "@type": "Person",
     "name": "Chloe Cornwell",
     "jobTitle": "ICT Student",
-    "description": "Web development student at the University of Kentucky.",
+    "url": "https://github.com/chloeycornwell",
+    "description": "Student looking for internship opportunities with interests in human-tech interaction.",
     "knowsAbout": [
       "HTML structure",
       "Semantic markup",
