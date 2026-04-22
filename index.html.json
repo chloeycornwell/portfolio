@@ -3,4 +3,16 @@
   "@type": "WebPage",
   "name": "Home | Chloe Cornwell",
   "description": "Portfolio of Chloe Cornwell, an ICT student specializing in web development and design.",
- 
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Chloe Cornwell",
+    "jobTitle": "Student and aspiring professional",
+    "description": "ICT student specializing in web development and design.",
+    "knowsAbout": [
+      "Web development",
+      "Design",
+      "Semantic HTML",
+      "Content structure",
+      "Accessibility"
+    ]
+  }
