@@ -33,4 +33,17 @@
   "copyrightHolder": {
     "@type": "Person",
     "name": "Chloe Cornwell"
-  }
+},
+  "hasPart": [
+    {
+      "@type": "WebPageElement",
+      "name": "Welcome",
+      "description": "A personal portfolio created using semantic HTML to demonstrate proper structure and meaningful markup."
+    },
+    {
+      "@type": "WebPageElement",
+      "name": "What This Site Is About",
+      "description": "Academic coursework demonstrating an understanding of semantic HTML elements and content structure."
+    }
+  ]
+}
