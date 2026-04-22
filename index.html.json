@@ -15,18 +15,6 @@
       "Content structure",
       "Accessibility"
     ]
-  } "mainEntity": {
-    "@type": "Person",
-    "name": "Chloe Cornwell",
-    "jobTitle": "Student and aspiring professional",
-    "description": "ICT student specializing in web development and design.",
-    "knowsAbout": [
-      "Web development",
-      "Design",
-      "Semantic HTML",
-      "Content structure",
-      "Accessibility"
-    ]
   },
   "image": "media/art-large.jpg",
   "copyrightYear": "2026",
